@@ -2,8 +2,8 @@
 ## Pfsense
 
 1. [Ipsec](pfsense/ipsec.md)
-    2. RoadWarrior
-    3. VPN
+2. RoadWarrior
+3. VPN
 
 ## Ubuntu
 
