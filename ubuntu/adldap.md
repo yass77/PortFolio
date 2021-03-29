@@ -5,13 +5,13 @@
 On souhaite une synchronisation d’utilisateurs entre notre AD et notre serveur Ubuntu.
 Pour cela on va utiliser Kerberos. Les commandes sont assez simples.
 
-### Etape 1 : Installe les paquets nécessaires :
+Etape 1 : Installe les paquets nécessaires :
 
     sudo apt update
     sudo apt upgrade
     sudo apt install sssd heimdal-clients msktutil
 
-### Etape 2 :  Déplace la configuration default de Kerberos et créer un nouveau fichier :
+Etape 2 :  Déplace la configuration default de Kerberos et créer un nouveau fichier :
 
     sudo mv /etc/krb5.conf /etc/krb5.conf.default
     sudo nano /etc/krb5.conf
@@ -29,7 +29,7 @@ Le nouveau fichier doit contenir ce contenu-ci :
     kdc = btsserver.bts.lan
     admin_server = btsserver.bts.lan}
 
-### Etape 3 : Initialise Kerberos et génère un fichier de clés
+Etape 3 : Initialise Kerberos et génère un fichier de clés
 
     kinit administrator
     klist
@@ -37,7 +37,7 @@ Le nouveau fichier doit contenir ce contenu-ci :
     msktutil -N -c -b 'CN=COMPUTERS' -s UBUNTU /ubuntu -k my-keytab.keytab --computer-name UBUNTU --upn UBUNTU $ --server btsserver.bts.lan --user-creds-only
     kdestroy
 
-### Etape 4 : Configure le SSSD :
+Etape 4 : Configure le SSSD :
 
     sudo mv my-keytab.keytab /etc/sssd/my-keytab.keytab
     sudo nano /etc/sssd/sssd.conf
@@ -80,7 +80,7 @@ Après avoir sauvegarder, mettre les permissions sur ce fichier :
 
     sudo chmod 0600 /etc/sssd/sssd.conf
     
-### Etape 5 : Configure PAM :
+Etape 5 : Configure PAM :
 
     sudo nano /etc/pam.d/common-session
 
@@ -90,7 +90,7 @@ session required pam_mkhomedir.so skel=/etc/skel umask=0077
 Après avoir sauvegarder et quitter, relance SSSD
 sudo systemctl restart sssd
 
-### Etape 6 :  Ajoute ton Administrateur domaine à ton groupe de domaine local :
+Etape 6 :  Ajoute ton Administrateur domaine à ton groupe de domaine local :
 Ajout du compte administrateur:
 
     sudo adduser administrateur sudo
@@ -99,7 +99,7 @@ Test de te connecter avec le compte Administrateur du domaine :
 
     su -l administrateur
 
-### Etape 7 : Redémarre l’ordinateur
+Etape 7 : Redémarre l’ordinateur
 Dès lors on peut observer sur notre Windows Server que notre Ubuntu fait partis des ordinateurs reconnus par notre AD.
 
 [retour au sommaire](https://yassineoby.github.io/PortFolio-Yassine-OUBOUYA/home.html)
