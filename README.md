@@ -16,9 +16,9 @@
 
 ## Windows Server
 
-1. [Active Directory](windows_server/ad.md)
-2. [PowerShell](windows_server/powershell.md)
-3. [Gestion de domaine](windows_server/gestionad.md)
+1. [Active Directory](windowsserver/ad.md)
+2. [PowerShell](windowsserver/powershell.md)
+3. [Gestion de domaine](windowsserver/gestionad.md)
 
 
 ## Cisco
