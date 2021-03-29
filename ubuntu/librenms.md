@@ -2,6 +2,9 @@
 
 Librenms est une surveillance de réseau basée sur PHP/Mysql/SNMP qui inclut le support d’une large gamme de matériel réseau et de systèmes d’exploitation, y compris Cisco, Linux, Juniper, Foundry, et beaucoup plus.
 Librenms est une fourche communautaire de la dernière version d’Observium sous licence GPL.
+
+## Pré-requis
+
 Pour pouvoir installer LIbrenMS sur notre machine virtuelle, nous aurons besoin tout d’abord de télécharger des paquets nécessaires à l’utilisation de celui-ci :
 
     sudo apt-get update
