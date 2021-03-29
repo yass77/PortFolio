@@ -1,15 +1,16 @@
 ## Installation Pfsense.
 
+## Informations essentiels à propos de Pfsense
+
 Afin de sécuriser et administrer notre serveur Windows, nous aurons besoin de mettre en place un pare-feu. Pour cela nous utiliserons l’un des plus connus dans le monde, Pfsense. Nous créerons une machine sous Windows pour avoir accès à l’interface graphique.
 Pfsense : Pfsense est un routeur/pare-feu basé sur un système d’exploitation Linux (FreeBSD) pouvant être administré depuis une interface graphique.
 
-Tutoriel :
+## Tutoriel :
+
 On commence par télécharger l’image de PfSense
  
 Une fois téléchargée, on démarre Win32 Disk Imager. On sélectionne l’image de Pfsense téléchargée précédemment, on prend le bon périphérique et on peut lancer l’écriture de l’image.
  
-
-
 La clé est maintenant prête, il suffit juste de la brancher à un ordinateur.
 Lors du démarrage, on appuie sur la touche nous permettant d’accéder au menu de sélection du disque de démarrage (F12 dans notre cas). On démarre sur la clé où l’on a mis notre Pfsense. Un écran de chargement va dérouler et une fenêtre sur fond bleu apparaitra.
 On accepte.
@@ -34,9 +35,18 @@ L’installation de Pfsense est terminée, la fenêtre demande si des modificati
 Il ne reste plus qu’à « Reboot » et tout sera opérationnel.
  
 Et voilà il reste plus qu’à configurer le DHCP. Pour ça on choisit l’option 2 quand nous arrivons à l’accueil.
- 
+
+![image](https://user-images.githubusercontent.com/59647512/112835116-27f9a400-9099-11eb-8563-6146694d2e37.png)
+
 On va configurer notre interface LAN afin de mettre en place un DHCP, pour ça on va donner l’adresse IPV4 192.168.1.10/24 en désactivant l’adresse IPV6 à notre Pfsense avec un DHCP de 192.168.1.100 à 192.168.1.200.
+
+![image](https://user-images.githubusercontent.com/59647512/112835138-2f20b200-9099-11eb-9a4f-04b67b7eafdb.png)
+
 Une fois terminer on se connecter à notre interfaces web en tapant l’adresse WAN depuis un ordinateur dans le même réseau de notre Pfsense, on configure le nom de Pfsense, le domaine (cf. Active Directory), notre DNS principal et secondaire sans oublier notre timezone ! Nous sommes en Europe et plus précisément « Europe/Paris"
 
+![image](https://user-images.githubusercontent.com/59647512/112835166-3d6ece00-9099-11eb-9f8e-8d0a180b0d0a.png)
+
+
+Tutoriel fini !
 
 [retour au sommaire](https://yassineoby.github.io/PortFolio-Yassine-OUBOUYA/home.html)
