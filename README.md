@@ -16,14 +16,14 @@
 
 ## Windows Server
 
-1. Active Directory
-2. PowerShell
-3. Gestion de domaine
+1. [Active Directory](windows_server/ad.md)
+2. [PowerShell](windows_server/powershell.md)
+3. [Gestion de domaine](windows_server/gestionad.md)
 
 
 ## Cisco
 
-1. Routage inter-vlan
-2. OSPF & OSPFv2
-3. RIP & RIPv2
-4. DHCP & HSRP
+1. [Routage inter-vlan](cisco/intervlan.md)
+2. [OSPF & OSPFv2](cisco/ospf.md)
+3. [RIP & RIPv2](cisco/rip.md)
+4. [DHCP & HSRP](cisco/dhcphsrp.md)
