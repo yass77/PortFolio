@@ -36,7 +36,4 @@ Elle sera donc stockée parmi les images de FOG. Pour la déployer il suffit de 
 
 
 
-[retour à l'acceuil](/README.md)
-
-
-
+[retour au sommaire](https://yassineoby.github.io/PortFolio-Yassine-OUBOUYA/home.html)
