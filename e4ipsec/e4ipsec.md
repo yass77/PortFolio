@@ -1,4 +1,4 @@
-### Projet Conception et Maintenance de Solutions Informatiques  E4
+### Projet Conception et Maintenance de Solutions Informatiques  (E4)
 
 
 	I/ Contexte 
