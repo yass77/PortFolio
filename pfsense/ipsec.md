@@ -36,4 +36,7 @@ Il ne reste plus qu’à « Reboot » et tout sera opérationnel.
 Et voilà il reste plus qu’à configurer le DHCP. Pour ça on choisit l’option 2 quand nous arrivons à l’accueil.
  
 On va configurer notre interface LAN afin de mettre en place un DHCP, pour ça on va donner l’adresse IPV4 192.168.1.10/24 en désactivant l’adresse IPV6 à notre Pfsense avec un DHCP de 192.168.1.100 à 192.168.1.200.
-Une fois terminer on se connecter à notre interfaces web en tapant l’adresse WAN depuis un ordinateur dans le même réseau de notre Pfsense, on configure le nom de Pfsense, le domaine (cf. Active Directory), notre DNS principal et secondaire sans oublier notre timezone ! Nous sommes en Europe et plus précisément « Europe/Paris 
+Une fois terminer on se connecter à notre interfaces web en tapant l’adresse WAN depuis un ordinateur dans le même réseau de notre Pfsense, on configure le nom de Pfsense, le domaine (cf. Active Directory), notre DNS principal et secondaire sans oublier notre timezone ! Nous sommes en Europe et plus précisément « Europe/Paris"
+
+
+[retour au sommaire](https://yassineoby.github.io/PortFolio-Yassine-OUBOUYA/home.html)
