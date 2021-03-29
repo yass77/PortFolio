@@ -1,6 +1,4 @@
-PAGE PRESENTATION DE MOI
-
-
+## Je me présente
 
 Je me présente, Yassine OUBOUYA né le 25 Décembre 1999 en Seine et Marne. 
 Depuis petit j’aime les découvertes que je fais tous les jours et j’adore m’impliquer dans des projets qui me tiennent à cœur. 
