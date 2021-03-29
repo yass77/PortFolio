@@ -79,12 +79,23 @@ Si le téléchargement et la décompression se sont effectués avec succès, on 
     http://’adresse_de_notre_serveur’/glpi
 
 Selectionnez la langue que vous parlez (en l(occurence français), acceptez les règles d’utilisation (à lire selon votre envie) et procedez à l'installation.
+
+![image](https://user-images.githubusercontent.com/59647512/112827610-df3ced80-908e-11eb-9629-f178a702f71b.png)
+
 Une page s’affiche ensuite avec la liste des prérequis, s’il en manque une croix rouge s’affichera sur la ligne correspondante. Normalement tout est bon si toutes les étapes ont bien été effectuées. La dernière ligne affiche une erreur mais c’est normal on peut continuer l’installation.
- 
-Arriver à [cette page](https://i.imgur.com/Cxig4gy.png) on choisit le serveur SQL, pour notre cas c’est localhost. A la place de ‘user_name’ et ‘user_password’, on met les identifiants définis précédemment.
+
+![image](https://user-images.githubusercontent.com/59647512/112827627-e5cb6500-908e-11eb-97fe-583f2a8da45f.png)
+
+Ensuite on choisit le serveur SQL, pour notre cas c’est localhost. A la place de ‘user_name’ et ‘user_password’, on met les identifiants définis précédemment.
+
+![image](https://user-images.githubusercontent.com/59647512/112827657-f085fa00-908e-11eb-926e-b3c4380960b3.png)
 
 Si la base de données à bien été créée, glpi devrait être disponible lors du choix de la base.
+
+![image](https://user-images.githubusercontent.com/59647512/112827694-fa0f6200-908e-11eb-81b9-d6a8b5b12e49.png)
  
 La page va ensuite se mettre à charger pendant un certain temps, ensuite [une page](https://i.imgur.com/hS3qORI.png) va s’afficher pour nous annoncer que GLPI est bien installé.
 
-![image](https://user-images.githubusercontent.com/59647512/112827167-46a66d80-908e-11eb-9482-cad7b20d9ff5.png)
+![image](https://user-images.githubusercontent.com/59647512/112827702-fda2e900-908e-11eb-8467-4928e62316ff.png)
+
+
