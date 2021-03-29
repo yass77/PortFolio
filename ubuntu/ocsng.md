@@ -21,4 +21,4 @@ Pour les clients il suffira d’opter pour le paquet ocsinventory-client et de m
 
 
 
-[retour à l'acceuil](/README.md)
+[retour au sommaire](https://yassineoby.github.io/PortFolio-Yassine-OUBOUYA/home.html)
