@@ -102,4 +102,4 @@ Test de te connecter avec le compte Administrateur du domaine :
 ### Etape 7 : Redémarre l’ordinateur
 Dès lors on peut observer sur notre Windows Server que notre Ubuntu fait partis des ordinateurs reconnus par notre AD.
 
-[retour à l'acceuil](/README.md)
+[retour à l'acceuil](https://yassineoby.github.io/PortFolio-Yassine-OUBOUYA/)
