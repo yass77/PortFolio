@@ -4,13 +4,7 @@ Pour lire un peu sur ma vie : [C'est ici](moi/moi.md)
 
 ## Présentation de E4
 
-1. [Glpi](ubuntu/glpi.md)
-2. [Ocsng](ubuntu/ocsng.md)
-3. [Zimbra](ubuntu/zimbra.md)
-4. [Librenms](ubuntu/librenms.md)
-5. [Graylog](ubuntu/graylog.md)
-6. [Bareos](ubuntu/bareos.md)
-7. [Fog](ubuntu/fog.md)
+Premier projet professionnel avec un contexte, la maison des Ligues, pour le visualiser [c'est là](e4ipsec/ipsec.md)
 
 ## Présentation de E4 n°2
 
