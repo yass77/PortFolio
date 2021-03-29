@@ -31,4 +31,4 @@ Puis on clique sur l’Ethernet, vous va faire un clic droit « statut » sur le
 
 L'étape suivant serai d'installer notre Actice Directory, on se donne rendz-vous [ici](https://yassineoby.github.io/PortFolio-Yassine-OUBOUYA/windowsserver/ad.html)
 
-
+[retour au sommaire](https://yassineoby.github.io/PortFolio-Yassine-OUBOUYA/home.html)
