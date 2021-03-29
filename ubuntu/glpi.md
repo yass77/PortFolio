@@ -23,9 +23,9 @@ On démarre ensuite le service apache et on l’active.
     systemctl start apache2
     systemctl enable apache2
 
-Pour vérifier si notre serveur Apache2 à bien été installé, il suffit d’aller sur la page apache. Pour cela, on chercher l’adresse ip de notre serveur Ubuntu en tapant ifconfig. On rentre cette adresse sur notre navigateur internet, si toutes les étapes ont bien été effectué [cette page devrait s'afficher](https://i.imgur.com/ouEwnnu.png).
--
 
+
+Pour vérifier si notre serveur Apache2 à bien été installé, il suffit d’aller sur la page apache. Pour cela, on chercher l’adresse ip de notre serveur Ubuntu en tapant ifconfig. On rentre cette adresse sur notre navigateur internet, si toutes les étapes ont bien été effectué [cette page devrait s'afficher](https://i.imgur.com/ouEwnnu.png)
 L’installation de Apache est terminée, on s’attaque maintenant à celle de MySQL. Comme pour apache2, on télécharge le paquet de MySQL pour avoir une base de données.
 
     sudo apt-get install mysql-server
