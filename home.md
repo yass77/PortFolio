@@ -13,6 +13,7 @@
 5. [Graylog](ubuntu/graylog.md)
 6. [Bareos](ubuntu/bareos.md)
 7. [Fog](ubuntu/fog.md)
+8. [Synchonisation AD/LDAP](ubuntu/adldap.md)
 
 ## Windows Server
 
