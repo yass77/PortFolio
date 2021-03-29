@@ -18,3 +18,7 @@ Pour finir il suffit d’installer le paquet ocsinventory-server grâce à la co
 
 Après avoir configurer votre Apache et votre PHP il suffira de redémarrer Apache et de vous rendre sur le site https://IP_SERVER/ocsreports/index.php pour configurer votre OCS.
 Pour les clients il suffira d’opter pour le paquet ocsinventory-client et de mettre l’IP de notre server.
+
+
+
+[retour à l'acceuil](/README.md)
