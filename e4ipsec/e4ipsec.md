@@ -17,9 +17,7 @@ Pour répondre aux besoins de M2L on va donc séparer les secteurs dans des VLAN
 	IV/ Schéma réseau
 
 
-
-[Imgur](https://i.imgur.com/wUEs8n8.png)
-
+[Ici vous trouverez le schéma](https://i.imgur.com/nW7ZkMU.png)
 
 
 
