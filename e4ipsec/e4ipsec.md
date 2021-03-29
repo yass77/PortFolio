@@ -18,7 +18,7 @@ Pour répondre aux besoins de M2L on va donc séparer les secteurs dans des VLAN
 
 
 
-![e4](https://prntscr.com/10yv8cq)
+[Imgur](https://i.imgur.com/wUEs8n8.png)
 
 
 
