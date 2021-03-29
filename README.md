@@ -23,4 +23,4 @@ A cette page vous arriverez sur mon projet principal construis tout le long de m
 
 ## Documents
 
-Pour voir en détails toute les fonctionalités ainsi que leur tutoriel appropriés [c'est ici](/home.md)
+Pour voir en détails toute les fonctionalités ainsi que leurs tutoriels associés [c'est ici](/home.md)
