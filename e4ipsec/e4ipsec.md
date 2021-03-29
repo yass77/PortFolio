@@ -1,7 +1,7 @@
 Projet Conception et Maintenance de Solutions Informatiques  E4
 
 
-I/ Contexte 
+	I/ Contexte 
 
 Notre contexte sur la Maison des Ligues de Lorraine qui a pour mission de fournir des espaces et des services aux différentes ligues sportives régionales et à d’autres structures hébergées.
 
