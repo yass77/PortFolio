@@ -23,21 +23,8 @@ On démarre ensuite le service apache et on l’active.
     systemctl start apache2
     systemctl enable apache2
 
-Pour vérifier si notre serveur Apache2 à bien été installé, il suffit d’aller sur la page apache. Pour cela, on chercher l’adresse ip de notre serveur Ubuntu :
-ifconfig
-
-IMAGE
-
-
-
-Cette page va s’afficher, l’adresse IP de notre machine est afficher dans le premier bloc à coter de « inet ».
-
-IMAGE
-
-On rentre cette adresse sur notre navigateur internet, si toutes les étapes ont bien été effectué cette page devrait s’afficher.
- 
-IMAGE
-
+Pour vérifier si notre serveur Apache2 à bien été installé, il suffit d’aller sur la page apache. Pour cela, on chercher l’adresse ip de notre serveur Ubuntu en tapant ifconfig. On rentre cette adresse sur notre navigateur internet, si toutes les étapes ont bien été effectué [cette page devrait s'afficher](https://i.imgur.com/ouEwnnu.png).
+-
 
 L’installation de Apache est terminée, on s’attaque maintenant à celle de MySQL. Comme pour apache2, on télécharge le paquet de MySQL pour avoir une base de données.
 
@@ -88,25 +75,15 @@ On accorde à Apache les droits du répertoire :
 
  
 Si le téléchargement et la décompression se sont effectués avec succès, on peut accéder à l’installation de GLPI depuis Internet.
-http://’adresse_de_notre_serveur’/glpi
 
-Une page s’affiche nous demandant la langue voulue :
- 
+    http://’adresse_de_notre_serveur’/glpi
 
-
-
-
-
-On nous demande d’accepter les règles d’utilisation (à lire selon votre envie).
- 
- On lance l’installation :
- 
-
+Selectionnez la langue que vous parlez (en l(occurence français), acceptez les règles d’utilisation (à lire selon votre envie) et procedez à l'installation.
 Une page s’affiche ensuite avec la liste des prérequis, s’il en manque une croix rouge s’affichera sur la ligne correspondante. Normalement tout est bon si toutes les étapes ont bien été effectuées. La dernière ligne affiche une erreur mais c’est normal on peut continuer l’installation.
  
-On choisit le serveur SQL, pour notre cas c’est localhost. A la place de ‘user_name’ et ‘user_password’, on met les identifiants définis précédemment.
- 
+Arriver à [cette page](https://i.imgur.com/Cxig4gy.png) on choisit le serveur SQL, pour notre cas c’est localhost. A la place de ‘user_name’ et ‘user_password’, on met les identifiants définis précédemment.
+
 Si la base de données à bien été créée, glpi devrait être disponible lors du choix de la base.
  
-La page va ensuite se mettre à charger pendant un certain temps, ensuite une page va s’afficher pour nous annoncer que GLPI est bien installé.
+La page va ensuite se mettre à charger pendant un certain temps, ensuite [une page](https://i.imgur.com/hS3qORI.png) va s’afficher pour nous annoncer que GLPI est bien installé.
 
