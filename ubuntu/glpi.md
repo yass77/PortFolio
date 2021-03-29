@@ -1,3 +1,5 @@
+## Instalation de GLPI
+
 ## Informations à propos de GLPI
 
 Pour nous aider à gérer notre parc informatique nous avons comme outil des gestionnaires de service informatique comme GLPI.
