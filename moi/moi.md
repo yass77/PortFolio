@@ -13,5 +13,5 @@ Le début fut à reculons pour bien estimer si j’avais bien fait mon choix, en
 
  
  
-Vous trouverez [ici](https://www.linkedin.com/in/yassineoubouya/) mon Profil LinkdIn.![image](https://user-images.githubusercontent.com/59647512/112840875-2089c900-90a0-11eb-8679-751b35cf3bf3.png)
+Vous trouverez [ici](https://www.linkedin.com/in/yassineoubouya/) mon Profil LinkdIn  ![image](https://user-images.githubusercontent.com/59647512/112840875-2089c900-90a0-11eb-8679-751b35cf3bf3.png)
 
