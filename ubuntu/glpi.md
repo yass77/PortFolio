@@ -87,3 +87,4 @@ Si la base de données à bien été créée, glpi devrait être disponible lors
  
 La page va ensuite se mettre à charger pendant un certain temps, ensuite [une page](https://i.imgur.com/hS3qORI.png) va s’afficher pour nous annoncer que GLPI est bien installé.
 
+![image](https://user-images.githubusercontent.com/59647512/112827167-46a66d80-908e-11eb-9482-cad7b20d9ff5.png)
