@@ -1,4 +1,7 @@
 PAGE PRESENTATION DE MOI
+
+
+
 Je me présente, Yassine OUBOUYA né le 25 Décembre 1999 en Seine et Marne. 
 Depuis petit j’aime les découvertes que je fais tous les jours et j’adore m’impliquer dans des projets qui me tiennent à cœur. 
 Après avoir eu mon Brevet puis mon BAC S je me suis orienté vers la fac, le but de tout lycéens, la liberté des cours en toute autonomie, les activités sportive et intellectuels réunis sur un seul et même site, ce ne fût pas pour moi. 
