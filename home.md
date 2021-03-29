@@ -1,4 +1,4 @@
-## Fonctionnalité et machine utiliser lors des projets
+## Fonctionnalités et machines utilisées lors des projets
 
 Ici vous trouverez toutes les fonctionnalités utilisés pour les projets avec leur machine (OS), et l'installation de leur fonctionnalités expliqués afin d'installer les services.
 
