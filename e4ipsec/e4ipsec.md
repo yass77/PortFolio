@@ -25,4 +25,4 @@ Pour répondre aux besoins de M2L on va donc séparer les secteurs dans des VLAN
 
 
 
-[retour à l'acceuil](/README.md)
+[retour à l'acceuil](README.md)
