@@ -21,6 +21,7 @@ On va ensuite créer des règles pour cela on se dirige dans « Firewall -> Rule
 
 
 Une fois les règles et phases faites on active le tunnel et on doit obtenir un bon « ETABLISHED » avec un nouveau graphe à l’accueil qui montre le flux IPSEC.
+
 ![image](https://user-images.githubusercontent.com/59647512/112834255-11068200-9098-11eb-93c0-016ba031444a.png)
 
 ![image](https://user-images.githubusercontent.com/59647512/112834268-12d04580-9098-11eb-80a1-2d0f2938c5d4.png)
