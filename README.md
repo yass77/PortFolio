@@ -18,3 +18,4 @@ En cliquant [ici](e6/e6.md) vous arriverai sur mon projet principal construis to
 
 ## Documents
 
+Pour voir en détails toute les fonctionalités ainsi que leur tutoriel appropriés [c'est ici](/home.md)
