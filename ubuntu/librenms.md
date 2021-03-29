@@ -113,4 +113,4 @@ On copie les fichiers .cron et .logrotate dans notre librenms puis on configure 
 La partie server et terminer. On se connecte sur notre interfaces WEB de LibreNMS via le lien : http://librenms.example.com/install.php
 Et voilà notre LibreNMS configurer et prêt à l’emplois !
 
-[retour à l'acceuil](/README.md)
+[retour au sommaire](https://yassineoby.github.io/PortFolio-Yassine-OUBOUYA/home.html)
