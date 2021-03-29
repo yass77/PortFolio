@@ -1,3 +1,8 @@
+## Bienvenu sur le site visiteur !
+
+Ceci est mon portfolio ! Il est diviser en 5 sections, la première est un petit résumé de mon parcours scolaire, il y'aura par la suite mes 2 projets de conception et maintenance de solutions informatiques, suivi du projet du parcours de professionnalisation et enfin la documentations de chaque projet réunis en 1 section. Bonne visite !
+
+
 ## Présentation de moi
 
 Pour lire un peu sur ma vie : [C'est ici](moi/moi.md)
