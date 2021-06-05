@@ -1,4 +1,4 @@
-## Bienvenue sur le site visiteur !
+## Bienvenue sur mon portfolio visiteur !
 
 Ceci est mon portfolio ! Il est diviser en 5 sections, la première est un petit résumé de mon parcour scolaire, il y aura par la suite mes 2 projets de conception et maintenance de solutions informatiques, suivi du projet du parcours de professionnalisation et enfin la documentation de chaque projet réunis en 1 section. Bonne visite !
 
