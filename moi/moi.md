@@ -9,3 +9,5 @@ Après une année en Science de l’ingénieur à faire de la physique Newtonien
 Après avoir perdu 2 ans à faire ce qui ne me plaisait pas je suis donc arrivé à ITIC Paris en 1re année de BTS Science Informatique aux Organisations. 
 
 Le début fut à reculons pour bien estimer si j’avais bien fait mon choix, en Novembre je partais à l’école même quand je n’avais pas cours pour en apprendre plus et moi voici en 2ème année en train de fabriquer ce portfolio pour mon examen de BTS session 2020/2021.
+
+Vous trouverez ici mon Profil LinkdIn  [![image](https://user-images.githubusercontent.com/59647512/112840875-2089c900-90a0-11eb-8679-751b35cf3bf3.png)](https://www.linkedin.com/in/yassineoubouya/)
